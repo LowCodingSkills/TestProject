@@ -15,8 +15,9 @@
 
 
 ## Шпаргалка по GIT
-git init
-git status
-git add <filename> 
-git commit -m <update_message>
-git push
+git init  
+git status  
+git add <filename>   
+git commit -m <update_message>  
+git push  
+git log  
