@@ -11,4 +11,12 @@
 * Алгоритмы и структуры данных на C++;
 * Мобильная разработка для Android.
 
-Но по факту я еще совсем ничего не умею.
+Но по факту я еще совсем ничего не умею. 
+
+
+## Шпаргалка по GIT
+git init
+git status
+git add <filename> 
+git commit -m <update_message>
+git push
